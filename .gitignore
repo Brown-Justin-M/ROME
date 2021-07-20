@@ -1,0 +1,12 @@
+config.log
+Makefile
+*.mod
+*.o
+ROME
+autom4te.cache
+config.status
+log
+*.nc
+*.csv
+*.dat
+.DS_Store
